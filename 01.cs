@@ -9,3 +9,16 @@ if (!a && b && c)
 {
     Environment.Exit(0);
 }
+
+
+string a = "it has this";
+string b = "but i made it better";
+string c = "does it mean that im better?"
+if (a && b && c)
+{
+    ask(content);
+}
+if (!a && b && c)
+{
+    Environment.Exit(0)
+}
