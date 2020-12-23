@@ -22,3 +22,15 @@ if (!a && b && c)
 {
     Environment.Exit(0)
 }
+
+string a = "piracy is bad";
+string b = "you dont harm anyone by doing it";
+string c = "you have a point, these companies have millions";
+if (a && b && c)
+{
+
+   agree(content);  
+}
+
+   Environment.Exit(0)
+}
